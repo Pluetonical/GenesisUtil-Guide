@@ -27,4 +27,4 @@ Working on developing a document to showcase how to use all the commands & every
 ## Links:
 
 * [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=995918163139113001&permissions=8&scope=bot%20applications.commands)
-* [Join Support Server](https://discord.gg/NSdetwGjpK](https://discord.gg/qmnFa45zBK)
+* [Join Support Server](https://discord.gg/qmnFa45zBK)
