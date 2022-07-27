@@ -3,7 +3,7 @@
 </p>
 
 ## Introduction 
-Genesis Utilities is a discord bot developed by C1ayT1tan & Juanito. The bot is created to suffice and bring the best discord experience possible to give easy ways to keep track of the ingame server, easily create any category of tickets, and so much more!
+Genesis Utilities is a discord bot developed by Jackson & Juanito. The bot is created to suffice and bring the best discord experience possible to give easy ways to keep track of the ingame server, easily create any category of tickets, and so much more!
 
 *Looks something like this:*
 <p align="center">
