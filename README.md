@@ -2,8 +2,8 @@
   <img src="https://cdn.discordapp.com/attachments/997735117445419118/1001728301569679411/Untitled178_20220727005032.png" alt="Genesis Bot Banner Credits to Juan" width="700"/>
 </p>
 
-## Introduction
-Genesis Utlities is a discord bot developed by C1ayT1tan & Juanito. The bot is created to suffice and bring the best discord experience possible to give easy ways to keep track of the ingame server, easily create any category of tickets, and so much more!
+## Introduction 
+Genesis Utilities is a discord bot developed by C1ayT1tan & Juanito. The bot is created to suffice and bring the best discord experience possible to give easy ways to keep track of the ingame server, easily create any category of tickets, and so much more!
 
 *Looks something like this:*
 <p align="center">
