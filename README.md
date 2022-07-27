@@ -16,11 +16,11 @@ Genesis Utlities is a discord bot developed by C1ayT1tan & Juanito. The bot is c
 
 Features will be added on to give better detection and data on the server further in development! Using our api we can display a near accurate status of members online in the server & the version.
 
-##Adding The Bot
+## Adding The Bot
 
 If you wish to add this bot click here, [LINK](https://discord.com/api/oauth2/authorize?client_id=995918163139113001&permissions=8&scope=bot%20applications.commands)
 
-##FAQ
+## FAQ
 
 Working on developing a document to showcase how to use all the commands & everything else about the bot!
 
